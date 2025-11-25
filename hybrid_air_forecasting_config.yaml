@@ -1,0 +1,4 @@
+batch_size: 32
+epochs: 50
+model: CNN+LSTM
+optimizer: adam

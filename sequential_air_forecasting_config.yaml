@@ -1,0 +1,6 @@
+best_params:
+  dropout_rate: 0.2818938875386817
+  filters: 124
+  learning_rate: 0.001800835053870465
+  lstm_units: 44
+optimizer: "Sequential Hybrid (AIS \u2192 CSA)"
