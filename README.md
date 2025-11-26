@@ -1,4 +1,4 @@
-# 🌫️ Sequential Hybrid AIS + CSA — Air Pollution Forecasting System
+# 🌫️ Sequential Hybrid AIS + CSA — Air Pollution Forecasting System.
 
 An intelligent deep-learning system that forecasts daily **air pollution levels (PM2.5)** using a **Sequential Hybrid Artificial Immune System (AIS)** + **Cuckoo Search Algorithm (CSA)** to optimize a **CNN + LSTM** model for maximum accuracy and stability.
 
